@@ -38,7 +38,8 @@ https://youtu.be/HaGRERIDSSY
 <img width="947" alt="e" src="https://user-images.githubusercontent.com/111359457/214316465-1f91767a-dfe1-44a0-b5d9-14075f49976a.PNG">
 
 <img width="921" alt="f" src="https://user-images.githubusercontent.com/111359457/214316477-925ae55b-c285-428f-8dd4-9ddcdb761971.PNG">
-<img width="953" alt="anv" src="https://user-images.githubusercontent.com/111359457/214317099-5261e7fd-091b-4236-a85e-89567ef4c9ce.PNG">
+<img width="957" alt="anvit" src="https://user-images.githubusercontent.com/111359457/214317758-54f5d0d8-4edf-4e54-a5ed-76dba22bd990.PNG">
+
 
 ## Tech Stack 💻
 
